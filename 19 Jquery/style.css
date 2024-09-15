@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+button{
+    display:block;
+}
+
+.title{
+    font-size: 5rem;
+}
